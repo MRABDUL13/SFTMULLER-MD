@@ -128,7 +128,7 @@ const displayBanner = () => {
 
     // Create figlet text
     figlet.text(
-      "HIRAGII",
+      "MULLER",
       {
         font: "Standard",
         horizontalLayout: "default",
